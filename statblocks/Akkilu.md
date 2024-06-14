@@ -1,33 +1,31 @@
 ---
 statblock: 'yes'
-layout: Terra Campaigns Leiaute v04b
+layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Nibiru Corebook
 
 name: Akkilu
 concept: Lion of Nibiru, Lawu family
 
-hp: '21'
-hit_dice: 6d6
-ac: '[13,14]'
+hp: 21
+ac: 12
 
 debilitations: ~
 resistances: ~
-immunities: ~
 senses: Bloodscent, nightvision
 
-stats:
-- hard: 1 (d2) 1d 3/13
-- edge: 1 (d2) 1d 1x
-- will: 0 (0) d/2 3/1.5
+h: 1
+e: 1
+r: 0
 
-main:
+combat_tactics:
 - name: Pounce
   desc: "Leaps with force, attempting to knock down and pin."
 - name: Roar
   desc: Intimidate and disorient its enemies.
 
-system: d20 DC 10 + 2dX & Save 15; 2d6 TN 6 + 1dX; Terran Xd6e & Save Xd6
+npc_link: "[Akkilu](Akkilu.md)"
+system: d20 DC 10+2d[2X] & Save 15; 2d6 TN 6+1d[2X]; Terran Xd6e & Save Xd6
 ---
 
 ![](https://i.imgur.com/ddWrnaO.png)

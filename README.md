@@ -92,7 +92,7 @@ roleplay:
   desc: 
 
 npc_link: 
-system: d20 DC 10 + 2dX & Save 15; 2d6 TN 6 + 1dX; Terran Xd6e & Save Xd6
+system: d20 DC 10+2d[2X] & Save 15; 2d6 TN 6+1d[2X]; Terran Xd6e & Save Xd6
 ---
 ```
 

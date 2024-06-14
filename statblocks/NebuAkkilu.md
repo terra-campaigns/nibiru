@@ -1,36 +1,32 @@
 ---
 statblock: 'yes'
-layout: Terra Campaigns Leiaute v04b
+layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Nibiru Corebook
 
 name: Nebu Akkilu
 concept: Fox of Nibiru, Lawu family
 
-hp: '7'
-hit_dice: 2d6
-ac: '[12,12]'
+hp: 7
+ac: 12
 
 debilitations: ~
 resistances: ~
-immunities: ~
 senses: Sensory acuity
+other_traits: Social animal
 
-stats:
-- hard: 0 (0) d/2 1/13
-- edge: 1 (d2) 1d 1x
-- will: 0 (0) d/2 3/1.5
+h: 0
+e: 1
+r: 0
 
-traits:
-- name: Social animal
-  desc: Generally found in packs.
-main:
+combat_tactics:
 - name: Tail Slash
   desc: Using the sharp talons at the end of its tail, the sparkling slashes at its target, aiming to cause lacerations.
 - name: Bioelectric Shock
   desc: Channels stored electrical energy into a concentrated shock, capable of disrupting electronic devices and causing pain to living creatures.
 
-system: d20 DC 10 + 2dX & Save 15; 2d6 TN 6 + 1dX; Terran Xd6e & Save Xd6
+npc_link: "[NebuAkkilu](NebuAkkilu.md)"
+system: d20 DC 10+2d[2X] & Save 15; 2d6 TN 6+1d[2X]; Terran Xd6e & Save Xd6
 ---
 
 ![](https://i.imgur.com/A6T2oV5.png)
