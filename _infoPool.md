@@ -1,1 +1,10 @@
-- [ ] Info pool items
+- [ ] **The Lost Research**: A renowned scientist in Penumbra has been silenced by higher powers, but whispers suggest that her research on bioelectric energy sources could revolutionize life in Nibiru if found.
+- [ ] **The Enigmatic Witch**: An old legend speaks of a witch named Arwia who resides deep within the world’s entrails, possessing knowledge that could alter the fate of entire factions.
+- [ ] **Power Shortages**: Rumors circulate about a mysterious entity draining power from the grid, causing blackouts and turmoil in several settlements.
+- [ ] **Hidden Reserves**: It is said that the Amarud clan has secret food and water reserves that could sustain a small army for months.
+- [ ] **The Fungal Blight**: A strange fungi is infecting local water supplies, and only those who venture into the heart of the affected area can find the source and stop it.
+- [ ] **The Tree’s Secret**: The Tree in the village center is not just a monument; it holds the preserved memories of an ancient civilization.
+- [ ] **The Rebel’s Hideout**: Somewhere within the labyrinthine tunnels, a group of rebels is planning an uprising against the ruling powers of Ashur.
+- [ ] **Bioengineered Creatures**: There are whispers of bioengineered creatures created by the Enesu to act as guardians for their hidden sanctuaries.
+- [ ] **The Ascendant V’s Curse**: Workers who helped build the Ascendant V have disappeared under mysterious circumstances, leading some to believe the structure is cursed.
+- [ ] **Nabua’s True Motives**: Some say Nabua’s quest to find his mother, Mulge, is not just a personal mission but part of a larger scheme to gain power within the Primarchy of Ashur ​​​​.

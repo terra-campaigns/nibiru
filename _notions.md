@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Inbox
 
+- [ ] Create link between Nibiru and Degenesis &/or Hostile
 
 
 ## foreshadowing
