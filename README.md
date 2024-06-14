@@ -24,15 +24,46 @@ The main themes of this campaign are:
 
 When creating NPCs, consult your uploaded knowledge for thematic and aesthetic coherence, and generate them with the following framework, as a strict yaml file as below.
 
+- The values for the `stats` will be given in the prompt with the following template: `h2e1r0` means that `h: 2`, `e: 1` and `r: 0`.
+	- **h** represents force, fortitude, hardiness and resistance.
+	- **e** represents cunning, finesse edginess, and wits.
+	- **r** represents resolve, attunement, wealth, and resources.
+- The following derived stats should also be calculated:
+	- `hp` equals `h * 14 + e * 7 + w * 7` and never less than `5`
+	- `ac` equals `highest(hard, edge) * 2 + 10`
+- On `combat_tactics` no numbers or system specific rules should be used - they shall be described only narratively in a very summarised style.
+
 ```
 ---
 statblock: yes
-layout: Terra Campaigns Leiaute v04b
+layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Nibiru Oracle
 
 name: 
 concept: 
+
+h: 
+e: 
+r: 
+
+hp: 
+ac: 
+
+debilitations: ~
+resistances: ~
+senses: ~
+other_traits: ~
+
+combat_tactics:
+- name: ~
+  desc: ~
+- name: ~
+  desc: ~
+- name: ~
+  desc: ~
+- name: ~
+  desc: ~
 
 personality:
 - name: Strength
@@ -61,6 +92,7 @@ roleplay:
   desc: 
 
 npc_link: 
+system: d20 DC 10 + 2dX & Save 15; 2d6 TN 6 + 1dX; Terran Xd6e & Save Xd6
 ---
 ```
 
