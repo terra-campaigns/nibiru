@@ -110,14 +110,14 @@ The types of encounters are:
 - personal panic or wondrous events
 - environment effects
 
-The output should be a markdown numbered list, from 2 to 12 (so I roll 2d6), with each encounter as a single-line entry. Each entry has its title in bond, then in parentheses the encounter type and, after a colon, a short description.
+The output should be a markdown numbered list, from 7 to 12, with each encounter as a single-line entry. Each entry has its title in bond, then in parentheses the encounter type and, after a colon, a short description.
 
 **Example**
 
-| 2d6 | Encounter                           |
+| 1d6 | Encounter                           |
 | --- | ----------------------------------- |
-| 2   | **Title** (type): short description |
-| 3   | ...                                 |
+| 7   | **Title** (type): short description |
+| 8   | ...                                 |
 
 ### Knowledge base files
 
