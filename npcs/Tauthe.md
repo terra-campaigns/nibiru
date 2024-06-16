@@ -30,7 +30,7 @@ roleplay:
   desc: Carries a strange whistle, its purpose and origin unknown to the group.
 
 
-npc_link: ''
+npc_link: '[Tauthe](Tauthe.md)'
 ---
 
 ![](https://i.imgur.com/zR4JQ9r.png)

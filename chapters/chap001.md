@@ -1,7 +1,7 @@
 ---
-name: Watershed
-game_date: 4656-03-29
-pcs: "[Repent](../pcs/Repent.md), [Conan](../pcs/Conan.md), [Elk](../pcs/Elk.md), [Robert](../pcs/Robert.md), [Davi](../pcs/Davi.md)"
+name: The Amarud
+game_date: 9656-03-29
+pcs: "Conan, Robert, Zumathi"
 levels: 
 
 meta:
@@ -22,14 +22,9 @@ tags:
 > [!abstract] Motivations & Themes
 > 
 > **Present characters**
-> - Repent: 
-> - Conan:
-> - Elk:
-> - Robert:
-> - Davi:
-> 
-> **Absent characters**
-> - Repent: 
+> - [Conan](../pcs/Conan.md):
+> - [Robert](../pcs/Robert.md):
+> - [Zumathi](../pcs/Zumathi.md):
 > 
 > **Tarot cards theme**:
 > - Vortex
@@ -48,53 +43,59 @@ tags:
 
 > [!danger] Strong start
 
-1. **Ambient Description**:
-	1. The **ceiling** is dotted with **flickering** lights and occasional sparks from exposed wiring.
-	2. The air is filled with a low, constant **hum** of **machinery** and distant echoes of moving transport vessels.
-2. **Meet Vaelen Sorra**: The Vagabonds encounter [VaelenSorra](../npcs/VaelenSorra.md), the exiled scholar, outside the ruined construction.
-	4. He provides cryptic information about the area and hints at valuable knowledge hidden deeper in the tunnels.
-	5. Vaelen describes the labyrinthine tunnels as a vortex of forgotten paths and lost souls, emphasizing the disorienting and cyclical nature of their journey.
-3. **Labyrinthine Network**: The environment should feature a maze-like network of **service tunnels and air ducts**, scattered with derelict **industrial** buildings and piles of **scrap machinery**. `vortex`
+- Imediatamente antes de abrirem a porta to alçapão vocês percebem um homem dormindo ao lado de vocês. Ele é Zumathi, também um Vagabond. Vocês juntos conseguem abrir a porta e sair do poço que os aprisionou por tanto tempo.
+
+- **Descrição do Ambiente ([OutbackNexus](../locations/OutbackNexus.md))**:
+	- O **teto** está pontilhado de luzes **piscantes** e faíscas ocasionais de fiações expostas.
+	- O ar está cheio de um **zumbido** baixo e constante de **maquinário** e ecos distantes de veículos de transporte em movimento.
 
 ![](https://i.imgur.com/PxIZfJk.png)
 
+- **Encontro com Vaelen Sorra**: Você encontra [Vaelen Sorra](../npcs/VaelenSorra.md), o estudioso exilado, fora da construção em ruínas.
+	- Ele fornece informações enigmáticas sobre a área e dá pistas sobre conhecimentos valiosos escondidos nas profundezas da estação. Ele parece falar muitos idiomas e se comunica com você em Dopomac.
+	- Vaelen alerta que os Vagabundos nunca devem revelar a outros sua condição de amnésicos, pois amnésicos são caçados para experimentos na estação.
+	- Ele explica que a estação possui versões, que são ciclos longos isolados uns dos outros por décadas de desligamento. Cada um desses ciclos é governado por diferentes sociedades. Os ciborgues de borracha que você enfrentou no poço parecem ser de uma versão anterior.
+	- Vaelen leva você até sua amiga Rhea, que está montando acampamento para sua caravana no Nexus vizinho.
+
+![](https://i.imgur.com/g98dene.png)
+
 > [!example] Sets
 
-**Industrial Wastegrounds** `rebelion`
-- Meet [RheaArgyros](../npcs/RheaArgyros.md), who initially mistrusts the group but can be convinced to help. Friend of Vaelen
-- Rhea shares stories of her involvement in small rebellions against the ruling factions of Tharsus, showcasing her defiance and resourcefulness.
-	- They are scouting for a caravan of Enesu in an important mission.
-- You are **extremely exhausted**
-	- Sleep underwater.
+- **Terrenos Baldios Industriais**
+- Encontro com [Rhea Argyros](../npcs/RheaArgyros.md), amiga de Vaelen
+- Rhea explica que estão explorando para uma caravana de Enesu em uma missão importante.
+- Vocês se oferece para ajudar, mas estão **extremamente exaustos**. Após montar os sacos de dormir para o sono subaquático, apenas Zumathi continua ajudando Rhea, os demais dormem.
+	- Dormir debaixo d'água isola o zunido e diminui o desconforto da gravidade mais alta.
 
-- Wake up with [RheaArgyros](../npcs/RheaArgyros.md)
-	- **Slept well**? Look at questions for players
-	- To Caravan dinner scene.
+![](https://i.imgur.com/LSktpcm.png)
+
+
+- **Rhea acorda vocês** Dormiram bem?
+	- A caravana chega e cerca de 200 pessoas terminam de montar o acampamento.
+	- Cerca de 8 carregam armas leves, a caravana não parece preparada para nenhuma ação extremamente violenta.
+	- Depois que todos terminam seus trabalhos, juntam-se para jantar.
+	- Zumathi conversa com [Tauthe](../npcs/Tauthe.md), que explica que vão ter que cortar o chumaço de cabos para o hauler atravessar. Essa tarefa poderia contar com a ajuda dos Vagabonds.
 
 ![](https://i.imgur.com/qyPKXXx.png)
 
+- **Encontro com [NabuaAmarud](../npcs/NabuaAmarud.md)**
+	- Vocês finalmente são apresentados a Nabua, que sai de dentro do Hauler.
+	- Nabua explica que estão numa missão para encontrar Arwia. Arwia saberia do paradeiro de uma terceira pessoa, e essa procura seria uma missão subsequente, caso Arwia seja encontrada. Ele oferece $\mathbb{N}$ 200 (Nibirollars) para a primeira missão, além de comida e estadia com a caravana.
 
-- Dinner Set
-	- Meet [NabuaAmarud](../npcs/NabuaAmarud.md)
+![](https://i.imgur.com/309znJG.png)
 
-- Wire thikett
-	- Work with [Tauthe](../npcs/Tauthe.md)
+- **Chumaço de cabos**
+	- Vocês trabalham com Tathue e sua equipe, e cortam cabos de comunicação, estruturais, linhas de óleo e eletricidade.
+	- Todos tomam cuidado com poças de água, evitando choques.
+	- Vocês encontram uma área com crescimento de um fungo azul claro.
+	- Um dos trabalhadores está interessado e experimenta o fungo.
+	- Vaelen, que está com seu tablet conectado em um cabo de comunicação cortado, diz que esse fungo pode ser alucinógeno.
+	- Minutos depois, o trabalhador que provou o fungo ataca um de seus colegas, cortando o nariz. Robert atira na perna dele, e os demais o seguram e amarram.
+
+![](https://i.imgur.com/MbxsRwe.png)
+
 
 > [!bug] Random encounters
-
-| 2d6 | Encounter                                                                                                                                    |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2   | **Feral Tech-Scavengers** (humans): A group of mutated humanoids scavenging for valuable scrap.                                              |
-| 3   | **Rogue Maintenance Drone** (systems malfunction): A malfunctioning and erratic drone performing destructive tasks.                          |
-| 4   | **Bioluminescent Fungus Patch** (environment effects): Area filled with glowing fungi and hallucinogenic spores.                             |
-| 5   | **Crazed Hermit** (personal panic): A lone survivor, driven mad by isolation, who claims to have vital information about a hidden treasure.  |
-| 6   | **Collapsed Tunnel** (environment effects): A recently collapsed section blocking the path, home to mutated insects.                         |
-| 7   | **Echoing Whispers** (wondrous event): Eerie, disembodied whispers filling the tunnels, remnants of a failed AI experiment.                  |
-| 8   | **Lost Caravan** (humans): A small group of survivors from a lost caravan seeking help.                                                      |
-| 9   | **Aggressive Wildlife** (Nibiru creatures): Bioelectric foxes defending their territory.                                                     |
-| 10  | **Resource Cache** (wondrous event): A hidden cache of valuable supplies and ancient artifacts.                                              |
-| 11  | **Fallen Ascendant** (systems malfunction): A crashed vessel with salvageable parts and potential dangers.                                   |
-| 12  | **Guardian AI** (wondrous event): An ancient, malfunctioning AI that mistakes the Vagabonds for intruders and activates defensive protocols. |
 
 > [!info] Information pool
 > ![infoPool](../_infoPool.md)
