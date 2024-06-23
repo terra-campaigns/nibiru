@@ -1,6 +1,6 @@
 ---
 name: The Amarud
-game_date: 9656-03-29
+game_date: v4 c500 d79
 pcs: "Conan, Robert, Zumathi"
 levels: 
 
