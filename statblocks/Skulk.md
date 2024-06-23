@@ -1,18 +1,14 @@
 ---
 statblock: yes
 layout: Terra Campaigns Leiaute v04d
-template: Terran Trinity Challenges
+template: Terran Trinity & Challenges
 source: Nibiru Oracle
 
 name: Skulk Repair Drone
-concept: Autonomous repair drone for intricate systems.
-
-h: 0
-e: 2
-r: 0
+concept: Autonomous repair drone for Nibiru systems
 
 hp: 14
-ac: 14
+ac: 0, 2, 0
 
 debilitations: Vulnerable to EMP attacks.
 resistances: Resistant to physical damage (non-EMP).
@@ -37,11 +33,9 @@ roleplay:
 - name: Languages
   desc: Understands and processes binary and machine code.
 
-npc_link: ~
+npc_link: "[Skulk](Skulk.md)"
 system: d20 DC 10+2d[2X] & Save 15; 2d6 TN 6+1d[2X]; Terran Xd6e & Save Xd6
 ---
-
-
 
 ![](https://i.imgur.com/IGkZ1Ed.png)
 

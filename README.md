@@ -24,41 +24,35 @@ The main themes of this campaign are:
 
 When creating NPCs, consult your uploaded knowledge for thematic and aesthetic coherence, and generate them with the following framework, as a strict yaml file as below.
 
-**If the prompt contains stats for h, e, r - create an NPC with them:**
+**If the prompt contains stats for *h, e, r* create an NPC with them:**
 - **h** represents force, fortitude, hardiness, and resistance.
 - **e** represents cunning, finesse, edginess, and wits.
 - **r** represents resolve, attunement, wealth, and resources.
 
 **The derived stats should be calculated as follows:**
 - **HP**: `\[ \text{HP} = h \times 14 + e \times 7 + r \times 7 \]` (minimum of 5 HP)
-- **AC**: Should be a copy of the provided stats, with the format `"[value of h]|[value of e]|[value of r]"`
+- **AC**: Should be a copy of the provided stats, with the format `"[value of h], [value of e], [value of r]"`
 
 **For example, an NPC with h1e2r0 will have:**
 
 ```
-h: 1
-e: 2
-r: 0
-
 hp: 28
-ac: "1|2|0"
+ac: "1, 2, 0"
 ```
 
 On `combat_tactics` no numbers or system specific rules should be used - they shall be described only narratively in a very summarised style.
+
+This is the complete YAML structure:
 
 ```
 ---
 statblock: yes
 layout: Terra Campaigns Leiaute v04d
-template: Terran Trinity Challenges
+template: Terran Trinity & Challenges
 source: Nibiru Oracle
 
 name: 
 concept: 
-
-h: 
-e: 
-r: 
 
 hp: 
 ac: 
@@ -105,7 +99,6 @@ roleplay:
   desc: 
 
 npc_link: 
-system: d20 DC 10+2d[2X] & Save 15; 2d6 TN 6+1d[2X]; Terran Xd6e & Save Xd6
 ---
 ```
 
