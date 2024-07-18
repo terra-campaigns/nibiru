@@ -27,15 +27,10 @@ cover-image: "imgs/cover.png"
 
 ## Index {-}
 
-|                   |                   |
-| ----------------- | ----------------- |
-| **Campaign Arcs** |                   |
-| Watershed         | [1](#watershed)   |
-|                   |                   |
-| **Directory**     |                   |
-| People            | [A.1](#people)    |
-| Factions          | [A.2](#factions)  |
-| Locations         | [A.3](#locations) |
-|                   |                   |
-| **System**        | [B](#system)      |
-
+|                        |                         |
+| ---------------------- | ----------------------- |
+| **Campaign Arcs**      | [Watershed](#watershed) |
+| **Directory & System** | [People](#people)       |
+|                        | [Factions](#factions)   |
+|                        | [Locations](#locations) |
+|                        | [System](#system)       |
