@@ -29,8 +29,8 @@ cover-image: "imgs/cover.png"
 
 |                        |                         |
 | ---------------------- | ----------------------- |
-| **Campaign Arcs**      | [Watershed](#watershed) |
-| **Directory & System** | [People](#people)       |
-|                        | [Factions](#factions)   |
-|                        | [Locations](#locations) |
-|                        | [System](#system)       |
+| **Campaign Arcs**      | [1 Watershed](#watershed) |
+| **Directory & System** | [A.1 People](#people)       |
+|                        | [A.2 Factions](#factions)   |
+|                        | [A.3 Locations](#locations) |
+|                        | [B System](#system)       |
