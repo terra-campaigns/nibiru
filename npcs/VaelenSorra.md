@@ -33,16 +33,9 @@ roleplay:
 
 npc_link: '[VaelenSorra](VaelenSorra.md)'
 ---
+### Vaelen Sorra {#vaelen}
+
+> Exiled Scholar
 
 ![](https://i.imgur.com/wfouHMY.png)
-
-
-## Background
-- ...
-
-## Connections
-- ...
-
-## Key info and notes
-- ...
 

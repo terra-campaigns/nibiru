@@ -42,8 +42,9 @@ tags:
 
 > [!warning] Intro
 > - Confirmar saldo de MP e memórias.
+> - Verticality
 
-> [!example] Sets
+> [!example] **Vertical** Sets
 
 Conan e o ritual.
 

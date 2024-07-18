@@ -59,16 +59,5 @@ roleplay:
   desc: Fluent in various programming languages and capable of interfacing with most cybernetic systems, alongside standard communication protocols.
 
 npc_link: '[CaelumNoctis](CaelumNoctis.md)'
+image: https://i.imgur.com/FLOmBr0.png
 ---
-
-![](https://i.imgur.com/FLOmBr0.png)
-
-## Background
-- ...
-
-## Connections
-- ...
-
-## Key info and notes
-- ...
-

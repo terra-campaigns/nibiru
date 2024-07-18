@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## Inbox
 
-- [ ] Create link between Nibiru and Degenesis &/or Hostile
+- [ ] After watershed, choose to go to Vaelen & Rhea's city, or continue with Nabua to Anshur (the whisperers can have a fulfilling life in Antumbra).
+- [ ] Create 3rd faction: Enesu?
 
 
 ## foreshadowing
 
-- [ ] 
 
 
 ## snoozed
@@ -20,7 +20,7 @@ kanban-plugin: basic
 
 ## parkingLot
 
-- [ ] 
+- [ ] Create link between Nibiru and Degenesis &/or Hostile
 
 
 ***
@@ -29,6 +29,10 @@ kanban-plugin: basic
 
 - [ ] nothing
 - [ ] 
+- [ ] background e imagem denis
+- [ ] Fungos do Robert
+- [ ] Load cyborg book
+- [ ] Make Vaelen their saviour
 
 %% kanban:settings
 ```

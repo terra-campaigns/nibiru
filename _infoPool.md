@@ -1,5 +1,6 @@
-- [ ] Vaelen é caçado por um culto que quer parar sua pesquisa - The Obfuscators
+- [x] Vaelen é caçado por um culto que quer parar sua pesquisa - Os Ofuscadores
 - [ ] Rhea é fugitiva de Tarsus.
+- [ ] Enki's covenant is the hunt for Vagabonds. `N123`
 - [ ] **The Lost Research**: A renowned scientist in Penumbra has been silenced by higher powers, but whispers suggest that her research on bioelectric energy sources could revolutionize life in Nibiru if found.
 - [ ] **The Enigmatic Witch**: An old legend speaks of a witch named Arwia who resides deep within the world’s entrails, possessing knowledge that could alter the fate of entire factions.
 - [ ] **Power Shortages**: Rumors circulate about a mysterious entity draining power from the grid, causing blackouts and turmoil in several settlements.

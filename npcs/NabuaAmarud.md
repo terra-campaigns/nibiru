@@ -25,15 +25,8 @@ roleplay:
 
 npc_link: '[NabuaAmarud](NabuaAmarud.md)'
 ---
+### Nabua Amarud {#nabua}
+
+> Assyrian benefactor seeking his missing mother in Penumbra
 
 ![](https://i.imgur.com/309znJG.png)
-
-## Background
-- ...
-
-## Connections
-- ...
-
-## Key info and notes
-- ...
-

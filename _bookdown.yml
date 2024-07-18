@@ -1,0 +1,28 @@
+book_filename: hostile
+language:
+  ui:
+    chapter_name: ''
+delete_merged_file: yes
+output_dir: docs
+rmd_files:
+- index.Rmd
+- Watershed.md
+- assets/directory.md
+- assets/people.md
+- pcs/Conan.md
+- pcs/Davi.md
+- pcs/Elk.md
+- pcs/Robert.md
+- pcs/Zumathi.md
+- npcs/CaelumNoctis.md
+- npcs/NabuaAmarud.md
+- npcs/RheaArgyros.md
+- npcs/Tauthe.md
+- npcs/VaelenSorra.md
+- assets/factions.md
+- factions/Amarud.md
+- factions/Obfuscators.md
+- assets/locations.md
+- locations/OutbackNexus.md
+- system.md
+
