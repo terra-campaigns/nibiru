@@ -1,45 +1,55 @@
 # Watershed {#watershed}
 
-## Prelude: The Gauntlet
+## Prelúdio: A Provação
 
-- Os Vagabonds acordam.
-- Eles estão em um local escuro e úmido.
-- Por um dos lados eles seguem um túnel onde encontram algumas raposas bioelétricas. A alternativa é subir um poço, de onde um deles cai e falece. Os demais seguem em frente.
+Os Vagabonds despertaram de seu torpor, encontrando-se em um local sombrio e úmido, onde a umidade parecia sussurrar segredos antigos pelas paredes gotejantes.
+A escuridão era quase palpável, e seus sentidos ainda estavam confusos pelo sono perturbado.
+De um lado, um túnel se estendia à frente, cheio de promessas de perigos desconhecidos.
+Decidiram seguir pelo túnel, onde logo encontraram raposas bioelétricas, criaturas que brilhavam com uma energia própria e que se moviam silenciosamente na escuridão.
+A alternativa era subir por um poço traiçoeiro, que logo provou ser fatal para um dos Vagabonds, que caiu e pereceu.
+Os demais seguiram adiante, os passos ecoando como um lamento.
 
 ![](https://i.imgur.com/O4hkNxP.png)
 
-- Os Vagabonds encontram um altar de âmbar que é protegido por quatro esqueletos robóticos de metal e borracha.
-- No mesmo local encontram Davi, acordando. Davi é um outro Vagabond, também com amnésia, e cego.
+No caminho, depararam-se com um altar de âmbar, cuja presença imponente era protegida por quatro esqueletos robóticos, uma fusão sinistra de metal e borracha envelhecida.
+Ali, encontraram [Davi](#davi), um outro Vagabond que também despertava de sua amnésia, cego e desorientado.
+[Conan](#conan), um dos membros do grupo, quase encontrou a morte ao ser atacado por um dos esqueletos.
+Com rapidez e astúcia, o grupo recuou e elaborou uma armadilha elétrica, atraindo dois dos robôs para a morte por eletrocussão e queda.
+
 
 ![](https://i.imgur.com/cRGj7ES.jpg)
 
-- Conan quase morre depois de um ataque de um dos esqueletos.
-- O grupo retrata e prepara uma armadilha elétrica para dois dos robôs que os perseguem. Ambos caem na armadilha e morrem eletrocutados e pela queda.
-- O último dos esqueletos não se moveu ainda, e continua localizado acima do altar, segurando uma espada.
-- Zig laça o esqueleto e o arremessa em um poço próximo. O esqueleto cai, mas leva consigo a corda.
+O último esqueleto permanecia imóvel, empoleirado acima do altar, segurando uma espada com uma determinação silenciosa.
+Zig, em um ato de coragem desesperada, laçou o esqueleto e o arremessou em um poço próximo, mas a criatura levou consigo a corda na queda.
 
-![](https://i.imgur.com/GR7baz5.jpg)
-
-- Por um alçapão por cima da sala do altar de âmbar, que é quente ao toque, Robert encontra um antigo armorial. Nesse armorial, dentre vários equipamentos estragados e quebrados, ele separa duas lanças e uma pistola com 3 balas.
+[Robert](#robert), explorando um alçapão acima da sala do altar, encontrou um antigo armorial.
+Entre equipamentos desgastados e quebrados, ele conseguiu recuperar duas lanças e uma pistola com três balas.
 
 ![](https://i.imgur.com/Oiut6CO.jpg)
 
-- Em seguida, na escuridão, o grupo se perde de Robert e Davi, mas decidem continuar adiante.
-- Eles preparam mais cordas a partir de cabos e fios que encontram no local e descem mais um andar, em direção ao lugar em que o robô foi arremessado.
-- No andar que inferior eles encontram uma estátua e uma poça de uma gosma alaranjada. Zig prova a gosma.
-- No instante seguinte Zig pula com sua faca para cima de Elk, que rapidamente desvia e empurra Zig.
-- Zig é infeliz e escorrega perto de um buraco, e cai, batendo nas paredes do túnel que segue para baixo, onde o robô caiu.
-- Elk, desce até a metade do caminho onde Zig caiu. Zig parece morto, mas o grupo não confere para ter certeza. Eles decidem ir procurar o Coletor.
-- Na sala onde estava o coletor, agora se encontra uma criatura que parece um insectoide bípede e muito ágil. Essa criatura emite uma leve luminescência azul.
+A escuridão continuava a envolver o grupo, que acabou se perdendo de Robert e Davi.
+Determinados a seguir em frente, improvisaram cordas com cabos e fios que encontraram pelo caminho, descendo mais um andar em direção ao local onde o robô havia caído.
+
+No andar inferior, descobriram uma estátua e uma poça de gosma alaranjada.
+Zig, curioso e imprudente, provou a substância, o que o levou a atacar [Elk](#elk) com uma faca.
+Elk conseguiu se esquivar e empurrou Zig, que escorregou e caiu em um buraco, batendo nas paredes do túnel enquanto despencava até o fundo.
+
+Elk desceu até a metade do caminho, mas não verificou se Zig estava vivo, preferindo continuar com o grupo em busca do Coletor.
+Na sala do Coletor, encontraram uma criatura insectoide bípede e ágil, emanando uma leve luminescência azul.
+Assustados, tentaram evitar o confronto, movendo-se para outro túnel, onde finalmente encontraram o Coletor.
+Este lhes explicou sobre o perigo dos insetos.
 
 ![](https://i.imgur.com/LMB8NgN.png)
 
-- Com medo, o grupo tenta não enfrentar o inseto, movendo-se para outro lado nos túneis.
-- Eles encontram o Coletor, que explica que esses insetos são perigosos.
-- Num ato de bravura, o grupo afugenta o animal arremessando pedras e gritando.
-- Após explorar mais um pouco, o grupo volta a sala do coletor, e oferecem os dedos que Conan tinha retirado do cadáver que encontraram há algumas horas. O Coletor fica satisfeito e entrega mais corda, um gancho e um pé-de-cabra para o grupo.
-- O grupo finalmente encontra um local com água, e bebem desesperadamente. Percebem que também têm muita fome, e recuperam o cadáver de um dos lobos que tinham encontrado anteriormente. Usando o gancho, seus dentes e unhas, eles comem a carne do lobo.
-- Com o gancho, corda e pé-de-cabra em mão, eles decidem tentar abrir a porta do alçapão superior, em direção à luz externa.
+Em um ato de coragem, o grupo afugentou o inseto arremessando pedras e gritando.
+Após explorar mais um pouco, retornaram à sala do Coletor e ofereceram os dedos que Conan havia retirado de um cadáver encontrado anteriormente.
+O Coletor, satisfeito com a oferta, entregou-lhes mais corda, um gancho e um pé-de-cabra.
+
+Finalmente, os Vagabonds encontraram um local com água e beberam desesperadamente.
+A fome também os assolava, e recuperaram o cadáver de um dos lobos bioelétricos.
+Com o gancho, dentes e unhas, devoraram a carne do lobo, saciando um pouco de sua necessidade.
+
+Com o gancho, a corda e o pé-de-cabra em mãos, decidiram tentar abrir a porta do alçapão superior, em busca da luz externa que prometia liberdade e talvez, finalmente, respostas para suas perguntas e um alívio para seu sofrimento.
 
 ![](https://i.imgur.com/Dnhiuix.png)
 
@@ -141,6 +151,10 @@ Imediatamente antes de abrirem a porta to alçapão vocês percebem um homem dor
 - E Conan conhece Arwia, a possível feiticeira que executa os rituais no vault. Arwia seria responsável por ajudar outros Vagabonds, mas também por operar o sistema da Árvore da Família.
 
 ## Sabotagem
+
+```
+date: d
+```
 
 **O Plano de Rhea**
 
