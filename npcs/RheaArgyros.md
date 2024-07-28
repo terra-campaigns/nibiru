@@ -1,6 +1,5 @@
 ---
 challenge: 1d scavenge
-
 notes: Fugitiva de Tarsus
 ---
 ### Rhea Argyros {#rhea}

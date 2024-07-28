@@ -1,4 +1,4 @@
-### Arwia's Realm (#arwiarealm)
+### Arwia's Realm {#arwiarealm}
 
 Vila do clan Amarud onde os eventos de [Watershed](#watershed) acontecem.
 

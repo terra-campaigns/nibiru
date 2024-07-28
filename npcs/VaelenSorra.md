@@ -1,6 +1,3 @@
----
-
----
 ### Vaelen Sorra {#vaelen}
 
 > Exiled Scholar
