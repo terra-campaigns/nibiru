@@ -140,3 +140,48 @@ Imediatamente antes de abrirem a porta to alçapão vocês percebem um homem dor
 - Enquanto isso, Rhea desaparece.
 - E Conan conhece Arwia, a possível feiticeira que executa os rituais no vault. Arwia seria responsável por ajudar outros Vagabonds, mas também por operar o sistema da Árvore da Família.
 
+## Sabotagem
+
+**O Plano de Rhea**
+
+- [Conan](#conan) fica com medo do que a feiticeira Arwia propõe a ele.
+- Enquanto isso [Robert](#robert), [Repent](#repent) e [Elk](#elk) correm em direção à árvore, e percebem que [Rhea](#rhea) está tentando incendiar a árvore.
+- Eles discutem com Rhea, explicando que concordam em destruir a árvore, mas não com todas aquelas pessoas lá dentro.
+- Rhea argumenta que se eles não impedirem os Amarud, eles vão continuar consumindo as almas dos Ènesu.
+- O grupo concorda com Rhea de esperar até o jantar da família para atuar.
+
+**Vaelen**
+
+- Enquanto isso, [Vaelen](#vaelen) lia seu livro na praça da vila.
+- O grupo o convence a usar o sistema da árvore, e tirar as pessoas lá de dentro, assim a Rhea pode incendiar a árvore.
+- Vaelen acha o plano muito ousado, mas concorda. Infelizmente ele não tem a senha do sistema.
+- Conan decide tentar e, por sorte, o usuário e senha eram os mesmos da barbearia de suas lembranças: `admin`, `admin`
+- Vaelen aciona o sistema, e desce todas as pessoas.
+
+**Fugitivos**
+
+- O grupo ajuda a carregar os recém acordados, saídos da árvore, para longe.
+- Enquanto isso Rhea continua os preparativos para incendiar a árvore.
+- Um dos moradores da vila percebe a atividade, mas Conan o convence de que são ordens da Arwia. Isso dá um pouco mais de tempo para o grupo agir.
+- Quanto eles terminam de carregar as pessoas, um grupo enorme do vilarejo vem em direção a eles, acompanhados da Arwia.
+- Antes que a Arwia ordenasse que eles parassem o que estavam fazendo, Robert usa sua magnum e acerta um tiro entre os olhos de Arwia, que cai morta.
+- Os companheiros de Arwia agem desordenados, uns tentando ajudar a feiticeira, outros correndo em direção aos sabotadores.
+- Quando eles começam a se organizar, a árvore pega fogo.
+- O grupo corre para o portão da vila, que está aberto para o hauler de [Nabua](#nabua) entrar.
+- Vaelen é capturado, e os demais fogem.
+- Ao voltar ao hauler, Nabua não entende que acontece e, no meio da confusão, Conan o convence de que estão tentando matar sua mãe.
+- Nabua ordena que seus homens atirem nos perseguidores.
+- Os sobreviventes voltam para dentro da vila e os portões fecham.
+
+**Despedida**
+
+- Com mais calma Nabua e o grupo conversam.
+- Nabua explica que a árvore é para onde os anciãos da sua família vão, para se integrar à memória coletiva do clã.
+- Nabua também explica que nunca ouviu falar que a árvore produzisse Vagabonds, ou que consumisse Ènesu.
+- É tudo muito confuso, e Nabua decide despedir do grupo e pagá-los pela parte do combinado de chegar na vila.
+
+**Emboscada**
+
+- O grupo segue em viagem, em direção ao vault mais próximo: Shepperd's Glory.
+- Aparentemente Nabua não ficou muito satisfeito, e envia 3 de seus guarda costas para perseguir o grupo.
+- O grupo prepara uma emboscada e no fim mata os três perseguidores de forma violenta.

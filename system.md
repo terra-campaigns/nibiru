@@ -1,6 +1,8 @@
 # System {#system}
 
-This reference document is focused on playing **Nibiru** on the chassis of **Best Left Buried**. This document is **not** intended to be self-contained, and requires other books.
+This reference document is focused on playing **Nibiru** on the chassis of **Best Left Buried**. This is roughly a primitive version of **Terran Engine v0.2x**.
+
+This document is **not** intended to be self-contained, and requires other books.
 
 - **NBR**: Nibiru Corebook (link to [view-only pdf](https://drive.google.com/file/d/1URcfPk1QZ9THsut93cAh1oE-LuC2SrhR/view?usp=drivesdk), [audiobook](https://drive.google.com/drive/folders/1gbu8fkHxuS4QtTdKzpWcG7nJI8Qs36nW?usp=sharing) and [quick start pdf](https://drive.google.com/open?id=1gZm7M3invVbja-GQB1VEybxdopLC5Mot&usp=drive_fs))
 - **BLB**: Best Left Buried Zine Edition (link to [download](https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition))
