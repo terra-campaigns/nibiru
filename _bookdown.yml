@@ -1,4 +1,4 @@
-book_filename: hostile
+book_filename: nibiru
 language:
   ui:
     chapter_name: ''
@@ -12,9 +12,9 @@ rmd_files:
 - pcs/Conan.md
 - pcs/Davi.md
 - pcs/Elk.md
+- pcs/Repent.md
 - pcs/Robert.md
 - pcs/Zumathi.md
-- npcs/CaelumNoctis.md
 - npcs/NabuaAmarud.md
 - npcs/RheaArgyros.md
 - npcs/Tauthe.md
@@ -23,6 +23,8 @@ rmd_files:
 - factions/Amarud.md
 - factions/Obfuscators.md
 - assets/locations.md
+- locations/ArwiaRealm.md
 - locations/OutbackNexus.md
+- locations/Suruptu.md
 - system.md
 
