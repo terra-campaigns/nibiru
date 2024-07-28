@@ -12,6 +12,8 @@ Will 0
 ----------------------------
 [memorias]
 + espada
++ hacker
++ deception
 
 ----------------------------
 [revelacoes]
@@ -28,7 +30,7 @@ Ferida (-2 vigour max)
 vigour: 6 
 armour: 0
 
-mp: 11
+mp: 5
 
 ----------------------------
 [anotacoes]

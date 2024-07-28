@@ -25,7 +25,7 @@ Will
 vigour: 
 armour: 0
 
-mp: 4
+mp: 8
 
 ----------------------------
 [anotacoes]

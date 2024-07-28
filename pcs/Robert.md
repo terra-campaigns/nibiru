@@ -17,6 +17,7 @@ Will
 - devorador de almas
 + robótica
 + fungo na árvore da família
++ pistoleiro
 
 ----------------------------
 [revelacoes]
@@ -31,7 +32,7 @@ Will
 vigour: 
 armour: 0
 
-mp: 7
+mp: 6
 
 ----------------------------
 [anotacoes]
