@@ -1,12 +1,35 @@
 ### Davi {#davi}
 
-**Habitat**: The Machine
+```
+habitat: The Machine
 
-**Memórias:**
-- (-) Cego
-- (+) Anatomia dos robôs de borracha
+----------------------------
+[atributos]
+Brawn 
+Wit 
+Will 
 
-**Aflições**:
+----------------------------
+[memorias]
+/ 1st transmission
+- cego
++ anatomia dos robôs de borracha
 
+----------------------------
+[revelacoes]
 
-**Feridas:**
+----------------------------
+[equipamento]
+
+----------------------------
+[condicoes]
+
+----------------------------
+vigour: 
+armour: 0
+
+mp: 3
+
+----------------------------
+[anotacoes]
+```

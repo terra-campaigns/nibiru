@@ -1,19 +1,40 @@
 ### Robert {#robert}
 
-**Habitat**: The Wild
+```
+habitat: The Wild
 
-**Memórias:**
-- (-) Fogo
-- (+) Escalar
-- (+) Fungo
-- (-) Devorador de almas
-- (+) Robótica
-- (+) Fungo na Árvore da Família
+----------------------------
+[atributos]
+Brawn 
+Wit 
+Will 
 
-**Aflições**:
+----------------------------
+[memorias]
+- fogo
++ escalar
++ fungo
+- devorador de almas
++ robótica
++ fungo na árvore da família
 
+----------------------------
+[revelacoes]
 
-**Feridas:**
+----------------------------
+[equipamento]
 
+----------------------------
+[condicoes]
 
-Robert: ele quer recuperar sua memória o mais rápido possível mas não a qualquer custo, afinal ele quer sobreviver e não quer colocar outros em risco… a não ser que seja necessário.
+----------------------------
+vigour: 
+armour: 0
+
+mp: 7
+
+----------------------------
+[anotacoes]
+```
+
+Robert quer recuperar sua memória o mais rápido possível mas não a qualquer custo, afinal ele quer sobreviver e não quer colocar outros em risco… a não ser que seja necessário.

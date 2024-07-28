@@ -1,12 +1,32 @@
 ### Repent {#repent}
 
-**Habitat**: 
+```
+habitat: ?
 
-**Memórias:**
+----------------------------
+[atributos]
+Brawn 
+Wit 
+Will 
 
+----------------------------
+[memorias]
 
-**Aflições**:
+----------------------------
+[revelacoes]
 
+----------------------------
+[equipamento]
 
-**Feridas:**
+----------------------------
+[condicoes]
 
+----------------------------
+vigour: 
+armour: 0
+
+mp: 4
+
+----------------------------
+[anotacoes]
+```

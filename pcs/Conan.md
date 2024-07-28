@@ -1,14 +1,37 @@
 ### Conan Barbieri {#conan}
 
-**Habitat**: Bright Town
+```
+habitat: Bright Town
 
-**Memórias:**
-- (+) Espada
+----------------------------
+[atributos]
+Brawn 2
+Wit 1
+Will 0
 
-**Aflições**:
-- Paranóia com robôs de borracha
+----------------------------
+[memorias]
++ espada
 
-**Feridas:**
-- -2 Vigour Max
+----------------------------
+[revelacoes]
 
- ![](https://i.imgur.com/sF47fFQ.png)
+----------------------------
+[equipamento]
+
+----------------------------
+[condicoes]
+Paranoia com robos de borracha
+Ferida (-2 vigour max)
+
+----------------------------
+vigour: 6 
+armour: 0
+
+mp: 11
+
+----------------------------
+[anotacoes]
+```
+
+![](https://i.imgur.com/sF47fFQ.png)

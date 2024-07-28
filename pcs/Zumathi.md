@@ -1,17 +1,38 @@
 ### Zumathi {#zumathi}
 
-**Habitat**: 
+```
+habitat: ?
 
-**Memórias:**
-- (+) Vault da Árvore da Família
-- (-) Ritual da Árvore
+----------------------------
+[atributos]
+Brawn 
+Wit 
+Will 
 
-**Aflições**:
+----------------------------
+[memorias]
++ vault da árvore da família
+- ritual da árvore
 
+----------------------------
+[revelacoes]
 
-**Feridas:**
+----------------------------
+[equipamento]
 
+----------------------------
+[condicoes]
 
-Zumathi: Por mais deslocado que seja, Zumathi não se sente estranho a esse lugar, de tal forma que seu senso de sobrevivência é natural a essa vida de escombros e fios. Por outro lado, há um desejo muito grande de explorar os confins desta nave e encontrar de onde vem essa sensação que já esteve aqui... como um déjà vu
+----------------------------
+vigour: 
+armour: 0
+
+mp: 7
+
+----------------------------
+[anotacoes]
+```
 
 ![](https://i.imgur.com/tFiTAkw.png)
+
+Por mais deslocado que seja, Zumathi não se sente estranho a esse lugar, de tal forma que seu senso de sobrevivência é natural a essa vida de escombros e fios. Por outro lado, há um desejo muito grande de explorar os confins desta nave e encontrar de onde vem essa sensação que já esteve aqui... como um déjà vu

@@ -1,11 +1,33 @@
 ### Elk {#elk}
 
-**Habitat**: Dreamlands
+```
+habitat: Dreamlands
 
-**Memórias:**
-- (+) Escalar
+----------------------------
+[atributos]
+Brawn 
+Wit 
+Will 
 
-**Aflições**:
+----------------------------
+[memorias]
++ escalar
 
+----------------------------
+[revelacoes]
 
-**Feridas:**
+----------------------------
+[equipamento]
+
+----------------------------
+[condicoes]
+
+----------------------------
+vigour: 
+armour: 0
+
+mp: 4
+
+----------------------------
+[anotacoes]
+```
