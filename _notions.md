@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -8,6 +8,9 @@ kanban-plugin: basic
 
 - [ ] After watershed, choose to go to Vaelen & Rhea's city, or continue with Nabua to Anshur (the whisperers can have a fulfilling life in Antumbra).
 - [ ] Create 3rd faction: Enesu?
+- [ ] Define date
+- [ ] Make travel map
+- [ ] encounter: raposas bioelétricas
 
 
 ## foreshadowing
@@ -36,6 +39,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","max-archive-size":100}
+{"kanban-plugin":"board","max-archive-size":100}
 ```
 %%
