@@ -1,37 +1,5 @@
 ---
-statblock: yes
-layout: Terra Campaigns Leiaute v04b
-template: Terra Campaigns 3-attribute NPC statblocks
-source: Nibiru GPT
 
-name: Vaelen Sorra
-concept: Exiled Scholar with Forbidden Knowledge
-
-personality:
-  - name: Strength
-    desc: Unmatched intellect and vast knowledge in ancient civilizations.
-  - name: Virtue
-    desc: Devoted to preserving and sharing knowledge, regardless of personal risk.
-  - name: Flaw
-    desc: Obsession with forbidden lore that led to his exile.
-  - name: Problem
-    desc: Hunted by a cult that seeks to silence him and destroy his findings.
-  - name: Ambition
-    desc: To uncover and reveal truths that could revolutionize the understanding of their world.
-  - name: Desire
-    desc: To find a safe haven where he can study and share his knowledge freely.
-
-roleplay:
-  - name: Aspect
-    desc: Speaks in cryptic riddles, a habit from years of hiding his knowledge in plain sight.
-  - name: Mutation
-    desc: A subtle, permanent ink stain on his fingertips from decades of handling ancient manuscripts and scrolls.
-  - name: Idiosyncrasy
-    desc: Carries an ancient tome at all times, believed to be the key to unlocking a legendary power.
-  - name: Languages
-    desc: Fluent in several dead languages, some of which have not been spoken for millennia.
-
-npc_link: '[VaelenSorra](VaelenSorra.md)'
 ---
 ### Vaelen Sorra {#vaelen}
 
@@ -39,3 +7,11 @@ npc_link: '[VaelenSorra](VaelenSorra.md)'
 
 ![](https://i.imgur.com/wfouHMY.png)
 
+Vaelen Sorra é um erudito exilado, portador de um intelecto inigualável e vasto conhecimento sobre civilizações antigas.
+Devotado a preservar e compartilhar seu saber, ele enfrenta perigos pessoais ao lidar com conhecimentos proibidos, uma obsessão que o levou ao exílio.
+Perseguido por um culto que deseja silenciá-lo e destruir suas descobertas, Vaelen busca incansavelmente verdades que podem revolucionar o entendimento do mundo.
+Sua ambição é encontrar um refúgio seguro onde possa estudar e divulgar seu conhecimento livremente.
+Vaelen fala em enigmas, fruto de anos escondendo seu saber à vista de todos, e suas mãos carregam manchas de tinta permanentes de décadas manuseando manuscritos antigos.
+Ele sempre carrega consigo um tomo antigo, acreditado ser a chave para desbloquear um poder lendário, e é fluente em várias línguas mortas, algumas não faladas há milênios.
+
+Vaelen foi capturado em [Arwia's Realm](#arwiarealm).
