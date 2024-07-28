@@ -2,7 +2,7 @@
 
 This repository contains game assistance files. From this repo, a web page is published. 
 
-## Generators
+## Sandbox Generators
 
 - **WWN**: Courts, communities, encounters
 - **Pound of Fles**h: Encounters 

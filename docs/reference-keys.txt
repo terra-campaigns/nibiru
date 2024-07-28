@@ -1,5 +1,5 @@
 watershed
-prelude-the-gauntlet
+prelúdio-a-provação
 o-amarud
 árvore-da-família
 sabotagem
@@ -20,5 +20,4 @@ amarud
 locations
 arwias-realm-arwiarealm
 nexi
-suruptu-suruptu
 system
