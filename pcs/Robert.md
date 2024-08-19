@@ -1,4 +1,9 @@
-### Robert {#robert}
+---
+layout: default
+parent: Protagonists
+
+---
+# Robert
 
 ```
 habitat: The Wild

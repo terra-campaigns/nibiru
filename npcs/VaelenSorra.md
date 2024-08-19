@@ -1,4 +1,10 @@
-### Vaelen Sorra {#vaelen}
+---
+layout: default
+parent: People
+
+---
+
+### Vaelen Sorra
 
 > Exiled Scholar
 

@@ -1,6 +1,8 @@
 ---
 statblock: yes
-layout: Terra Campaigns Leiaute v04d
+layout: default
+parent: People
+
 template: Terra Campaigns 3-attribute NPC statblocks
 source: Nibiru GPT
 
@@ -32,7 +34,7 @@ roleplay:
 
 npc_link: '[Tauthe](Tauthe.md)'
 ---
-### Tauthe {#tauthe}
+### Tauthe
 
 > Enesu technician
 

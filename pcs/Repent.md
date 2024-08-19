@@ -1,4 +1,9 @@
-### Repent {#repent}
+---
+layout: default
+parent: Protagonists
+
+---
+# Repent
 
 ```
 habitat: ?
