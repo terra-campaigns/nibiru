@@ -6,11 +6,9 @@ kanban-plugin: board
 
 ## Inbox
 
-- [ ] After watershed, choose to go to Vaelen & Rhea's city, or continue with Nabua to Anshur (the whisperers can have a fulfilling life in Antumbra).
-- [ ] Create 3rd faction: Enesu?
 - [ ] Define date
 - [ ] Make travel map
-- [ ] encounter: raposas bioelétricas
+- [ ] Clan Amarud will set a prize on the heads of the PCs
 
 
 ## foreshadowing
@@ -24,6 +22,7 @@ kanban-plugin: board
 ## parkingLot
 
 - [ ] Create link between Nibiru and Degenesis &/or Hostile
+- [ ] Create 3rd faction: Enesu?
 
 
 ***
@@ -36,6 +35,8 @@ kanban-plugin: board
 - [ ] Fungos do Robert
 - [ ] Load cyborg book
 - [ ] Make Vaelen their saviour
+- [ ] After watershed, choose to go to Vaelen & Rhea's city, or continue with Nabua to Anshur (the whisperers can have a fulfilling life in Antumbra).
+- [ ] encounter: raposas bioelétricas
 
 %% kanban:settings
 ```

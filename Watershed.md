@@ -199,3 +199,7 @@ date: d
 - O grupo segue em viagem, em direção ao vault mais próximo: Shepperd's Glory.
 - Aparentemente Nabua não ficou muito satisfeito, e envia 3 de seus guarda costas para perseguir o grupo.
 - O grupo prepara uma emboscada e no fim mata os três perseguidores de forma violenta.
+
+## Current map {-}
+
+![](https://api2.inkarnate.com/api/embedScenes/W7kyvy/previewImage)
