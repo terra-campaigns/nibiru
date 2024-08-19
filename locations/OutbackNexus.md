@@ -1,4 +1,11 @@
-### Outback Nexi {#nexi}
+---
+layout: default
+parent: Locations
+
+---
+# Outback Nexi
+
+https://i.imgur.com/PxIZfJk.png
 
 ![](https://i.imgur.com/PxIZfJk.png)
 
