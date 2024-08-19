@@ -4,7 +4,7 @@ parent: People
 
 ---
 
-### Vaelen Sorra
+# Vaelen Sorra
 
 > Exiled Scholar
 

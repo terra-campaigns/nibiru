@@ -34,7 +34,7 @@ roleplay:
 
 npc_link: '[Tauthe](Tauthe.md)'
 ---
-### Tauthe
+# Tauthe
 
 > Enesu technician
 

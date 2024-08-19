@@ -5,7 +5,7 @@ notes: Fugitiva de Tarsus
 layout: default
 parent: People
 ---
-### Rhea Argyros
+# Rhea Argyros
 
 > Enesu scavenger
 
