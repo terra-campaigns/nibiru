@@ -1,4 +1,10 @@
-# System {#system}
+---
+layout: default
+title: System
+nav_order: 900
+
+---
+# System
 
 This reference document is focused on playing **Nibiru** on the chassis of **Best Left Buried**.
 This is a primitive version of **Terran Engine v0.2x**.
