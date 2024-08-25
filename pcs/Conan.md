@@ -1,4 +1,9 @@
-### Conan Barbieri {#conan}
+---
+layout: default
+parent: Protagonists
+
+---
+# Conan Barbieri
 
 ```
 habitat: Bright Town

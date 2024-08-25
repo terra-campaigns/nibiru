@@ -1,8 +1,11 @@
 ---
 challenge: 1d scavenge
 notes: Fugitiva de Tarsus
+
+layout: default
+parent: People
 ---
-### Rhea Argyros {#rhea}
+# Rhea Argyros
 
 > Enesu scavenger
 

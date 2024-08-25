@@ -1,4 +1,9 @@
-### Zumathi {#zumathi}
+---
+layout: default
+parent: Protagonists
+
+---
+# Zumathi
 
 ```
 habitat: ?

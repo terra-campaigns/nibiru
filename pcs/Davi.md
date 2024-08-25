@@ -1,4 +1,9 @@
-### Davi {#davi}
+---
+layout: default
+parent: Protagonists
+
+---
+# Davi
 
 ```
 habitat: The Machine

@@ -1,4 +1,9 @@
-### Elk {#elk}
+---
+layout: default
+parent: Protagonists
+
+---
+# Elk
 
 ```
 habitat: Dreamlands

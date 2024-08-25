@@ -1,6 +1,8 @@
 ---
 statblock: yes
-layout: Terra Campaigns Leiaute v04b
+layout: default
+parent: People
+
 template: Terra Campaigns 3-attribute NPC statblocks
 source: Nibiru GPT
 
@@ -25,7 +27,7 @@ roleplay:
 
 npc_link: '[NabuaAmarud](NabuaAmarud.md)'
 ---
-### Nabua Amarud {#nabua}
+# Nabua Amarud
 
 > Assyrian benefactor seeking his missing mother in Penumbra
 

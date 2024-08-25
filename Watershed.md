@@ -1,4 +1,19 @@
-# Watershed {#watershed}
+---
+layout: default
+title: Watershed
+nav_order: 10
+
+---
+# Watershed
+
+<details close markdown="block">
+  <summary id="index">
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Prelúdio: A Provação
 
@@ -200,6 +215,45 @@ date: d
 - Aparentemente Nabua não ficou muito satisfeito, e envia 3 de seus guarda costas para perseguir o grupo.
 - O grupo prepara uma emboscada e no fim mata os três perseguidores de forma violenta.
 
-## Current map {-}
+## Failaka, um tabu dos Enesu
+
+Os Vagabonds continuam sua jornada e retornam em direção ao Elevador V, a caminho de Shepperd's Glory.
+No primeiro dia de viagem eles encontram uma parede infestada de fungos, e percebem alguns Pulserings vivendo em meio aos fungos.
+[Rhea Argyros](npcs/RheaArgyros.md) explica que esses pequenos pássaros são um presságio de proximidade de grandes cultivos de fungos.
+
+![](https://i.imgur.com/ZNpTjiB.png)
+
+
+
+No segundo dia de viagem [Zumathi](pcs/Zumathi.md) se recorda de cenas felizes de infância, em uma vila, próxima ao Elevador V.
+O grupo decide encontrar essa vila, em busca de suprimentos.
+
+Horas depois, ao finalmente chegarem no local, [Zumathi](pcs/Zumathi.md) percebe que o local não é exatamente o que lembrava.
+Mas para [Repent](pcs/Repent.md) o mesmo local é exatamente igual sua lembrança.
+Uma ilha, em ruínas, dentro de um reservatório de água negra.
+[Rhea Argyros](npcs/RheaArgyros.md) também conhece o lugar.
+
+![](https://i.imgur.com/uvRB1JT.png)
+
+
+Gerações antes do estabelecimento de Shepperd's Glory, e do Elevador V, Failaka foi um um povoado de Arkus, no começo da colonização da Penumbra.
+Para os Arku, esse é um lugar de belas lembranças.
+Para os Enesu, é um Tabu, onde seus antepassados foram explorados e muitos morreram.
+
+O grupo investiga suas opções e decide consertar uma das pontes que está quebrada, para ter acesso à ilha.
+Eles estão cientes de que uma criatura vive no lago, possivelmente um Slicer, segundo Rhea.
+
+![](https://i.imgur.com/Re2mV6G.png)
+
+Os vagabond investigam as ruínas de Failaka e encontram várias áreas inundadas, com risco do Slicer poder acessar.
+[Conan](pcs/Conan.md) quase caí quando uma das paredes desaba na água.
+Zumathi e Rhea encontram um robô bípede enorme, desligado, e um drone de exploração, que tenta sair de um dos cômodos em uma das instalações.
+
+![](https://i.imgur.com/TKp7kLc.png)
+
+Conan e Repent decidem descansar em uma oficina, ao verem que estão sem saida, encurralados pelo Slicer.
+Zumathi e Rhea vêm em sua procura.
+
+## Mapa atual
 
 ![](https://api2.inkarnate.com/api/embedScenes/W7kyvy/previewImage)
