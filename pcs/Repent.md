@@ -6,7 +6,7 @@ parent: Protagonists
 # Repent
 
 ```
-habitat: ?
+habitat: Dreadlands
 
 ----------------------------
 [atributos]
@@ -16,6 +16,7 @@ Will
 
 ----------------------------
 [memorias]
++ vila é uma ilha tabu (dreadlands)
 
 ----------------------------
 [revelacoes]
@@ -30,7 +31,7 @@ Will
 vigour: 
 armour: 0
 
-mp: 8
+mp: 6
 
 ----------------------------
 [anotacoes]

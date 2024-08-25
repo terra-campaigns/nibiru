@@ -18,6 +18,7 @@ Will
 [memorias]
 + vault da árvore da família
 - ritual da árvore
++ vila com crianças e animais, infância
 
 ----------------------------
 [revelacoes]
@@ -32,7 +33,7 @@ Will
 vigour: 
 armour: 0
 
-mp: 7
+mp: 5
 
 ----------------------------
 [anotacoes]
