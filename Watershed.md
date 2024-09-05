@@ -254,6 +254,6 @@ Zumathi e Rhea encontram um robô bípede enorme, desligado, e um drone de explo
 Conan e Repent decidem descansar em uma oficina, ao verem que estão sem saida, encurralados pelo Slicer.
 Zumathi e Rhea vêm em sua procura.
 
-## Mapa atual
+# Mapa atual
 
 ![](https://api2.inkarnate.com/api/embedScenes/W7kyvy/previewImage)
