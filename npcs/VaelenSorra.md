@@ -2,6 +2,8 @@
 layout: default
 parent: People
 
+title: Vaelen Sorra
+
 ---
 
 # Vaelen Sorra

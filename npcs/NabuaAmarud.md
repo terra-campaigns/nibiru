@@ -6,7 +6,7 @@ parent: People
 template: Terra Campaigns 3-attribute NPC statblocks
 source: Nibiru GPT
 
-name: Nabua Amarud
+title: Nabua Amarud
 concept: Assyrian benefactor seeking his missing mother in Penumbra
 
 personality:

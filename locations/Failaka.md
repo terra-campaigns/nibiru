@@ -1,17 +1,14 @@
 ---
 layout: default
 parent: Locations
-title: Arwia's Realm
+title: Failaka
 
 ---
-# Arwia's Realm
+# Failaka
 
-Vila do clan Amarud onde os eventos de [Watershed](../chapters/Watershed.md) acontecem.
+Gerações antes do estabelecimento de Shepperd's Glory, e do Elevador V, Failaka foi um um povoado de Arkus, no começo da colonização da Penumbra.
 
-**Notable people**
-
-- Arwia (falecida)
-- Mulge 
+![](https://i.imgur.com/uvRB1JT.png)
 
 ---
 #### Connected to

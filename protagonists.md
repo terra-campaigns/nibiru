@@ -8,4 +8,4 @@ nav_order: 70
 
 # Protagonists
 
-Players are welcome to edit their own characters' section [here](https://github.com/efsalvarenga/nibiru/tree/main/pcs).
+Players are welcome to edit their own characters' section by clicking on the Edit on GitHub link at the bottom of the page.

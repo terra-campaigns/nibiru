@@ -6,7 +6,7 @@ parent: People
 template: Terra Campaigns 3-attribute NPC statblocks
 source: Nibiru GPT
 
-name: Tauthe
+title: Tauthe
 concept: Guide through the Wire Thickett
 
 personality:

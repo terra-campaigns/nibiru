@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Protagonists
+title: Robert
 
 ---
 # Robert

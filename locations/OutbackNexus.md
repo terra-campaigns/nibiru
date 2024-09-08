@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Locations
-
+title: Outback Nexi
 ---
 # Outback Nexi
 
