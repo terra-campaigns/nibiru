@@ -1,6 +1,7 @@
 ---
 challenge: 1d scavenge
 notes: Fugitiva de Tarsus
+title: Rhea Argyros
 
 layout: default
 parent: People
