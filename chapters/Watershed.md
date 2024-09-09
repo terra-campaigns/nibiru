@@ -7,6 +7,15 @@ nav_order: 10.02
 
 # Watershed
 
+<details close markdown="block">
+  <summary id="index">
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 ## O Amarud
 
 Imediatamente antes de abrirem a porta to alçapão vocês percebem um homem dormindo ao lado de vocês. Ele é [Zumathi](../pcs/Zumathi.md), também um Vagabond. Vocês juntos conseguem abrir a porta e sair do poço que os aprisionou por tanto tempo.
@@ -106,10 +115,6 @@ Imediatamente antes de abrirem a porta to alçapão vocês percebem um homem dor
 
 ## Sabotagem
 
-```
-date: d
-```
-
 **O Plano de Rhea**
 
 - [Conan](../pcs/Conan.md) fica com medo do que a feiticeira Arwia propõe a ele.
@@ -179,6 +184,9 @@ Gerações antes do estabelecimento de Shepperd's Glory, e do Elevador V, [Faila
 Para os Arku, esse é um lugar de belas lembranças.
 Para os Enesu, é um Tabu, onde seus antepassados foram explorados e muitos morreram.
 
+![](https://i.imgur.com/Gz2ZOug.png)
+
+
 O grupo investiga suas opções e decide consertar uma das pontes que está quebrada, para ter acesso à ilha.
 Eles estão cientes de que uma criatura vive no lago, possivelmente um Slicer, segundo Rhea.
 
@@ -198,7 +206,7 @@ Zumathi e Rhea vêm em sua procura.
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
-- [\-](https://terra-campaigns.github.io/nibiru/pcs/Zumathi), from pcs
+- [Zumathi](https://terra-campaigns.github.io/nibiru/pcs/Zumathi), from pcs
 - [Robert](https://terra-campaigns.github.io/nibiru/pcs/Robert), from pcs
 - [Conan](https://terra-campaigns.github.io/nibiru/pcs/Conan), from pcs
 - [Repent](https://terra-campaigns.github.io/nibiru/pcs/Repent), from pcs

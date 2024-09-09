@@ -32,3 +32,8 @@ npc_link: '[NabuaAmarud](NabuaAmarud.md)'
 > Assyrian benefactor seeking his missing mother in Penumbra
 
 ![](https://i.imgur.com/309znJG.png)
+
+---
+#### Connected to
+
+<!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
