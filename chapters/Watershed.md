@@ -188,12 +188,12 @@ Para os Enesu, é um Tabu, onde seus antepassados foram explorados e muitos morr
 
 
 O grupo investiga suas opções e decide consertar uma das pontes que está quebrada, para ter acesso à ilha.
-Eles estão cientes de que uma criatura vive no lago, possivelmente um Slicer, segundo Rhea.
+Eles estão cientes de que uma criatura vive no lago, possivelmente um [Slicer](../creatures/Slicer.md), segundo Rhea.
 
 ![](https://i.imgur.com/Re2mV6G.png)
 
 Os vagabond investigam as ruínas de Failaka e encontram várias áreas inundadas, com risco do Slicer poder acessar.
-[Conan](pcs/Conan.md) quase caí quando uma das paredes desaba na água.
+[Conan](pcs/Conan.md) quase cai quando uma das paredes desaba na água.
 Zumathi e Rhea encontram um robô bípede enorme, desligado, e um drone de exploração, que tenta sair de um dos cômodos em uma das instalações.
 
 ![](https://i.imgur.com/TKp7kLc.png)
@@ -217,4 +217,5 @@ Zumathi e Rhea vêm em sua procura.
 - [Nabua Amarud](https://terra-campaigns.github.io/nibiru/npcs/NabuaAmarud), from npcs
 - [Arwia's Realm](https://terra-campaigns.github.io/nibiru/locations/ArwiaRealm), from locations
 - [Failaka](https://terra-campaigns.github.io/nibiru/locations/Failaka), from locations
+- [\-](https://terra-campaigns.github.io/Nibiru/creatures/Slicer), from Nibiru/creatures
 <!-- SerializedQuery END -->
