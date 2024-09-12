@@ -1,9 +1,13 @@
 source 'https://rubygems.org'
-group :jekyll_plugins do
-  gem 'github-pages'
-  gem "just-the-docs"
-  gem 'jekyll-redirect-from'
-  gem 'jekyll-include-cache'
-end
 
-gem "webrick", "~> 1.8"
+gem "jekyll", "~> 4.3.3" # installed by `gem jekyll`
+# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+
+gem "just-the-docs", "0.10.0" # pinned to the current release
+# gem "just-the-docs"        # always download the latest release
+
+gem "jekyll-relative-links"
+
+gem "jekyll-redirect-from"
+
+gem "jekyll-titles-from-headings"

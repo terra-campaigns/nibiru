@@ -27,7 +27,7 @@ Com rapidez e astúcia, o grupo recuou e elaborou uma armadilha elétrica, atrai
 O último esqueleto permanecia imóvel, empoleirado acima do altar, segurando uma espada com uma determinação silenciosa.
 Zig, em um ato de coragem desesperada, laçou o esqueleto e o arremessou em um poço próximo, mas a criatura levou consigo a corda na queda.
 
-[Robert](pcs/Robert.md), explorando um alçapão acima da sala do altar, encontrou um antigo armorial.
+[Robert](../pcs/Robert.md), explorando um alçapão acima da sala do altar, encontrou um antigo armorial.
 Entre equipamentos desgastados e quebrados, ele conseguiu recuperar duas lanças e uma pistola com três balas.
 
 ![](https://i.imgur.com/Oiut6CO.jpg)
@@ -36,7 +36,7 @@ A escuridão continuava a envolver o grupo, que acabou se perdendo de Robert e D
 Determinados a seguir em frente, improvisaram cordas com cabos e fios que encontraram pelo caminho, descendo mais um andar em direção ao local onde o robô havia caído.
 
 No andar inferior, descobriram uma estátua e uma poça de gosma alaranjada.
-Zig, curioso e imprudente, provou a substância, o que o levou a atacar [Elk](pcs/Elk.md) com uma faca.
+Zig, curioso e imprudente, provou a substância, o que o levou a atacar [Elk](../pcs/Elk.md) com uma faca.
 Elk conseguiu se esquivar e empurrou Zig, que escorregou e caiu em um buraco, batendo nas paredes do túnel enquanto despencava até o fundo.
 
 Elk desceu até a metade do caminho, mas não verificou se Zig estava vivo, preferindo continuar com o grupo em busca do Coletor.

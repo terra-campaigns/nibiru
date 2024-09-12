@@ -10,6 +10,9 @@ Gerações antes do estabelecimento de Shepperd's Glory, e do Elevador V, Failak
 
 ![](https://i.imgur.com/uvRB1JT.png)
 
+![](https://i.imgur.com/bCRkMgz.png)
+
+
 ---
 #### Connected to
 
