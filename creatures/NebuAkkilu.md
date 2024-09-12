@@ -1,10 +1,15 @@
 ---
+layout: default
+parent: Creatures
+
+footer_content: Images & adapted text from <a href="https://www.araukana.com/nibiru-3">Nibiru Books</a> for private use only. Copyright &copy; 2020 by Araukana Media LTD.
+
 statblock: 'yes'
-layout: Terra Campaigns Leiaute v04d
+legacy_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity Challenges
 source: Nibiru Corebook
 
-name: Nebu Akkilu
+title: Nebu Akkilu
 concept: Fox of Nibiru, Lawu family
 
 hp: 7

@@ -1,10 +1,15 @@
 ---
+layout: default
+parent: Creatures
+
+footer_content: Images & adapted text from <a href="https://www.araukana.com/nibiru-3">Nibiru Books</a> for private use only. Copyright &copy; 2020 by Araukana Media LTD.
+
 statblock: yes
-layout: Terra Campaigns Leiaute v04d
+legacy_layout: Terra Campaigns Leiaute v04d
 template: Terran Trinity & Challenges
 source: Nibiru Oracle
 
-name: Skulk Repair Drone
+title: Skulk Repair Drone
 concept: Autonomous repair drone for Nibiru systems
 
 hp: 14
