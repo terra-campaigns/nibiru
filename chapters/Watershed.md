@@ -188,7 +188,7 @@ Para os Enesu, é um Tabu, onde seus antepassados foram explorados e muitos morr
 
 
 O grupo investiga suas opções e decide consertar uma das pontes que está quebrada, para ter acesso à ilha.
-Eles estão cientes de que uma criatura vive no lago, possivelmente um [Slicer](../creatures/Slicer.md), segundo Rhea.
+Eles estão cientes de que uma criatura vive no lago, possivelmente um [Slicer](../statblocks/Slicer.md), segundo Rhea.
 
 ![](https://i.imgur.com/Re2mV6G.png)
 
@@ -206,6 +206,7 @@ Zumathi e Rhea vêm em sua procura.
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
+- [Slicer](https://terra-campaigns.github.io/nibiru/statblocks/Slicer), from statblocks
 - [Zumathi](https://terra-campaigns.github.io/nibiru/pcs/Zumathi), from pcs
 - [Robert](https://terra-campaigns.github.io/nibiru/pcs/Robert), from pcs
 - [Conan](https://terra-campaigns.github.io/nibiru/pcs/Conan), from pcs
@@ -217,5 +218,4 @@ Zumathi e Rhea vêm em sua procura.
 - [Nabua Amarud](https://terra-campaigns.github.io/nibiru/npcs/NabuaAmarud), from npcs
 - [Arwia's Realm](https://terra-campaigns.github.io/nibiru/locations/ArwiaRealm), from locations
 - [Failaka](https://terra-campaigns.github.io/nibiru/locations/Failaka), from locations
-- [\-](https://terra-campaigns.github.io/Nibiru/creatures/Slicer), from Nibiru/creatures
 <!-- SerializedQuery END -->
