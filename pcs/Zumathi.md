@@ -15,6 +15,11 @@ Brawn +2
 Wit 0
 Will +1
 
+Vigor: 2 + 6 = 8
+Grip: 3
+
+Memory points: 3
+
 ----------------------------
 [memorias]
 + vault da árvore da família
