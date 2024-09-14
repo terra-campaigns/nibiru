@@ -7,13 +7,13 @@ title: Zumathi
 # Zumathi
 
 ```
-habitat: ?
+habitat: Wild
 
 ----------------------------
 [atributos]
-Brawn 
-Wit 
-Will 
+Brawn +2
+Wit 0
+Will +1
 
 ----------------------------
 [memorias]
@@ -26,7 +26,11 @@ Will
 
 ----------------------------
 [equipamento]
-
+- tesoura
+- um cantil de água
+- ração
+- fungo da memoria
+- $200 nibirolas
 ----------------------------
 [condicoes]
 
@@ -45,6 +49,7 @@ mp: 5
 Por mais deslocado que seja, Zumathi não se sente estranho a esse lugar, de tal forma que seu senso de sobrevivência é natural a essa vida de escombros e fios. Por outro lado, há um desejo muito grande de explorar os confins desta nave e encontrar de onde vem essa sensação que já esteve aqui... como um déjà vu
 
 ---
+
 #### Connected to
 
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
