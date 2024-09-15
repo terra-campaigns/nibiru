@@ -8,7 +8,7 @@ footer_content: Images & adapted text from <a href="https://www.araukana.com/nib
 
 # Slicer
 
-4 HP, 13 STR, 8 DEX, 4 WIL, fangs (d8 - gelatinous grip on a result of 8)
+4 HP, 13 STR, 8 DEX, 4 WIL, fangs (d8 - gelatinous grip on 6+)
 
 - Power Line Feeder: Cuts through large power lines to feed. Can drain energy sources to regain 1d6 HP.
 - Fast Swimmer: Moves slowly on land, but extremely fast in water
