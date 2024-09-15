@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Factions
-
+title: Amarud Clan
 ---
 # Amarud Clan
 
