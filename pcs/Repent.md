@@ -18,6 +18,7 @@ Will
 ----------------------------
 [memorias]
 + vila é uma ilha tabu (dreadlands)
++ computador, senha, robôs e violência
 
 ----------------------------
 [revelacoes]
@@ -30,9 +31,10 @@ Will
 
 ----------------------------
 vigour: 
+grip: ? + 5
 armour: 0
 
-mp: 6
+mp: 4
 
 ----------------------------
 [anotacoes]

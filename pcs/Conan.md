@@ -36,7 +36,7 @@ Ferida (-2 vigour max)
 vigour: 6 
 armour: 0
 
-mp: 8
+mp: 11
 
 ----------------------------
 [anotacoes]
