@@ -1,7 +1,6 @@
 ---
 layout: default
-parent: Monsters
-grand_parent: Resources
+parent: Creatures
 title: RBXL
 ---
 
