@@ -15,4 +15,5 @@ And, now the Primarchy wants Mulge to join the ruling council.
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 - [Nabua Amarud](https://terra-campaigns.github.io/nibiru/npcs/NabuaAmarud), from npcs
+- [Watershed](https://terra-campaigns.github.io/nibiru/chapters/Watershed), from chapters
 <!-- SerializedQuery END -->
