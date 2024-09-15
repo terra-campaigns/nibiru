@@ -18,6 +18,7 @@ Will
 ----------------------------
 [memorias]
 + escalar
++ reprogramação de equipmentos (Conan)
 
 ----------------------------
 [revelacoes]
@@ -32,7 +33,7 @@ Will
 vigour: 
 armour: 0
 
-mp: 8
+mp: 6
 
 ----------------------------
 [anotacoes]

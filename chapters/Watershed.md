@@ -194,12 +194,49 @@ Eles estão cientes de que uma criatura vive no lago, possivelmente um [Slicer](
 
 Os vagabond investigam as ruínas de Failaka e encontram várias áreas inundadas, com risco do Slicer poder acessar.
 [Conan](pcs/Conan.md) quase cai quando uma das paredes desaba na água.
-Zumathi e Rhea encontram um robô bípede enorme, desligado, e um drone de exploração, que tenta sair de um dos cômodos em uma das instalações.
+Zumathi e Rhea encontram um robô bípede enorme ([RBXL](../statblocks/RBXL.md)), desligado, e um drone de exploração, que tenta sair de um dos cômodos em uma das instalações.
 
 ![](https://i.imgur.com/TKp7kLc.png)
 
 Conan e Repent decidem descansar em uma oficina, ao verem que estão sem saida, encurralados pelo Slicer.
 Zumathi e Rhea vêm em sua procura.
+
+## Companheiro robótico 
+
+[Elk](../pcs/Elk.md) e [Robert](../pcs/Robert.md) encontram [Zumathi](../pcs/Zumathi.md) e [Rhea](../npcs/RheaArgyros.md) na praça de [Failaka](../locations/Failaka.md), antes de saírem os quatro a procura dos demais.
+Eles chegam no mesmo porão inundado que [Conan](../pcs/Conan.md) e [Repent](../pcs/Repent.md) viram o [[Slicer]].
+
+Zumathi decide invocar o espírito do Leviathan para lidar com o Slicer, perdendo o controle motor de seu corpo, mas mantendo sensações e comunicação.
+Ele entra na água e se aproxima da criatura, que demonstra fome.
+Zumathi então segue em direção à oficina, pega um cabo de eletricidade e começa a levar para o Slicer.
+
+Enquanto isso, Robert decide entrar na água e é atacado pelo Slicer.
+Rhea ajuda a tirá-lo da água, enquanto Elk atira com sua espingarda duas vezes na criatura, que afunda.
+Rapidamente, Zumathi mergulha e ajuda o Slicer a morder o cabo elétrico, alimentando-o.
+
+Os Vagabonds se equipam na oficina, e encontram uma escada longa que desce centenas de metros.
+No final da escada, Conan, Repent e Elk ficam explorando o que parece ser uma estação de tratamento de dejetos de mineração.
+
+![](https://i.imgur.com/C2L8Vn0.png)
+
+
+Em um pequeno escritório, Elk encontra documentação da [Indústria de Mineração Sehat](../factions/Sehat.md), e suas bases.
+Encontra também mapas de navegação em Nibiru entre esses locais.
+
+![](https://i.imgur.com/5e7PHSU.png)
+
+Os demais voltam ao local onde o robô bípede e o drone estavam.
+Depois de muita pesquisa eles conseguem reativar ambos.
+O programa do [RBXL](../statblocks/RBXL.md) foi alterado para proteger os Vagabonds.
+O Drone continua com o programa de fazer surveillance para o RBXL.
+
+Enquanto isso, o grupo percebe que estão sendo espionados por Ettu.
+Eles rapidamente rendem o Arku, que explica que agora trabalha na Serhat pois seu namorado - o rico Saman, do clan [Amarud](../factions/Amarud.md) - foi pego num esquema de corrupção.
+
+![](https://i.imgur.com/OMxYSv0.png)
+
+Repent escolhe deixar Ettu escapar enquanto os demais reprogramavam o RBXL.
+Rapidamente Conan ordena ao RBXL, com apoio do drone, a encontrar e trazer de volta Ettu.
 
 ---
 #### Connected to
@@ -207,6 +244,7 @@ Zumathi e Rhea vêm em sua procura.
 <!-- QueryToSerialize: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 <!-- SerializedQuery: LIST without ID "["+ title + "](https://terra-campaigns.github.io/"+ regexreplace(file.path, ".md", "") + ")" + ", from " + regexreplace(file.folder, "nibiru/", "") FROM ([[]]) OR outgoing([[]]) SORT file.folder DESC -->
 - [Slicer](https://terra-campaigns.github.io/nibiru/statblocks/Slicer), from statblocks
+- [RBXL](https://terra-campaigns.github.io/nibiru/statblocks/RBXL), from statblocks
 - [Zumathi](https://terra-campaigns.github.io/nibiru/pcs/Zumathi), from pcs
 - [Robert](https://terra-campaigns.github.io/nibiru/pcs/Robert), from pcs
 - [Conan](https://terra-campaigns.github.io/nibiru/pcs/Conan), from pcs
@@ -218,4 +256,6 @@ Zumathi e Rhea vêm em sua procura.
 - [Nabua Amarud](https://terra-campaigns.github.io/nibiru/npcs/NabuaAmarud), from npcs
 - [Arwia's Realm](https://terra-campaigns.github.io/nibiru/locations/ArwiaRealm), from locations
 - [Failaka](https://terra-campaigns.github.io/nibiru/locations/Failaka), from locations
+- [Indústria de Mineração Sehat](https://terra-campaigns.github.io/nibiru/factions/Sehat), from factions
+- [\-](https://terra-campaigns.github.io/nibiru/factions/Amarud), from factions
 <!-- SerializedQuery END -->
