@@ -18,7 +18,9 @@ Will +1
 Vigor: 2 + 6 = 8
 Grip: 3
 
-Memory points: 3
+Amrour: 0
+
+Memory points: 8
 
 ----------------------------
 [memorias]
@@ -38,12 +40,6 @@ Memory points: 3
 - $200 nibirolas
 ----------------------------
 [condicoes]
-
-----------------------------
-vigour: 
-armour: 0
-
-mp: 5
 
 ----------------------------
 [anotacoes]
