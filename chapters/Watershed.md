@@ -257,5 +257,5 @@ Rapidamente Conan ordena ao RBXL, com apoio do drone, a encontrar e trazer de vo
 - [Arwia's Realm](https://terra-campaigns.github.io/nibiru/locations/ArwiaRealm), from locations
 - [Failaka](https://terra-campaigns.github.io/nibiru/locations/Failaka), from locations
 - [Indústria de Mineração Sehat](https://terra-campaigns.github.io/nibiru/factions/Sehat), from factions
-- [\-](https://terra-campaigns.github.io/nibiru/factions/Amarud), from factions
+- [Amarud Clan](https://terra-campaigns.github.io/nibiru/factions/Amarud), from factions
 <!-- SerializedQuery END -->
