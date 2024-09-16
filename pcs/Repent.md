@@ -1,4 +1,4 @@
-19 years old
+---
 layout: default
 parent: Protagonists
 title: Repent
@@ -8,6 +8,7 @@ title: Repent
 
 ```
 habitat: Dreadlands
+19 years old
 
 ----------------------------
 [atributos]
@@ -38,7 +39,7 @@ habitat: Dreadlands
 
 ----------------------------
 vigour: 7
-grip: 10 + 5
+grip: 15
 armour: 0
 
 mp: 9
