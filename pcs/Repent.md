@@ -42,7 +42,7 @@ vigour: 7
 grip: 15
 armour: 0
 
-mp: 9
+mp: 4
 
 ----------------------------
 [anotacoes]
