@@ -238,6 +238,26 @@ Eles rapidamente rendem o Arku, que explica que agora trabalha na Serhat pois se
 Repent escolhe deixar Ettu escapar enquanto os demais reprogramavam o RBXL.
 Rapidamente Conan ordena ao RBXL, com apoio do drone, a encontrar e trazer de volta Ettu.
 
+## Suruptu
+
+- Ettu chega carregado pelo robô RBXL.
+- O grupo debate sobre como continuar sua viagem, considerando o uso de robôs para carregar seus materiais e definir uma rota mais segura. Eles falam sobre o uso de um robô como trenó improvisado.
+- Escolha da rota para Shepperd's Glory: Eles planejam a travessia até Shepperd's Glory, evitando confrontos desnecessários.
+- O grupo desce uma imensa escadaria dentro da estação espacial. A descrição sugere uma sensação de escala gigantesca, com degraus enormes e uma jornada lenta.
+- Encontro com pedaços de corpos após um conflito anterior: Durante a descida, eles encontram restos de corpos e destroços, um sinal de que algo mortal os precedeu. Isso gera uma discussão sobre a possível origem dos restos.
+- Uso do drone para reconhecimento: O drone do grupo é enviado para explorar áreas perigosas antes de eles avançarem.
+- Identificação das criaturas chamadas “sparkling”: Rhea identifica restos de criaturas conhecidas como “sparkling”, pequenos predadores com características tribais. 
+- Decisão de evitar um grupo hostil de humanos: O grupo avista uma tribo de humanos armados e, para evitar confronto, decide seguir por uma rota mais longa, embora isso lhes custe tempo.
+- Descida através de uma área de mineração abandonada: Durante a jornada, eles entram em túneis que antes eram usados para mineração. A presença de armas rudimentares e lanças indica que outras pessoas passaram por ali.
+- Primeiros sinais de civilização: À medida que avançam, eles começam a ver sinais de civilização com pequenas casas e construções abandonadas, sugerindo que estão entrando em uma área habitada. Ao chegar perto de Shepperd's Glory, o grupo chama a atenção dos moradores locais devido ao seu transporte incomum: um robô gigante puxando um trenó. Para evitar maior exposição, eles decidem passar ao largo da cidade em vez de entrar.
+- Nas docas to Thorus, em uma taverna local, eles encontram uma mercenária que os aborda sobre um trabalho. Ao abrir um arquivo, ela reconhece Rhea como uma procurada, criando um confronto inesperado.
+- O grupo está decidido a não entregar Rhea. Debate sobre matar ou poupar a mercenária: A equipe é colocada em uma situação difícil: decidir se matam a mercenária para silenciá-la ou tentam sair de forma pacífica, sabendo que ela tem informações valiosas sobre Rhea. A moralidade e a sobrevivência entram em conflito aqui.
+- Um dos membros do grupo ameaça a mercenária com uma tesoura, forçando-a a cooperar sem gritar. Esse momento de alta tensão revela o desespero do grupo para proteger sua identidade e seguir com seu plano.
+- O grupo debate o valor de manter o robô versus o risco de mantê-lo. Eles discutem a possibilidade de deixá-lo para trás, trocá-lo por suprimentos ou usá-lo em sua viagem até Suruptu, demonstrando o quão estratégico o robô é para eles. Eles decidem viajar a pé, com o robô.
+- O grupo finalmente alcançou **Suruptu**, uma cidade grandiosa e ao mesmo tempo caótica, com esperança de encontrar refúgio longe das garras do clã Amarud.
+- O Burgemeister oferece proteção e transporte, além de dinheiro, em troca do RBXL - que seria usado nas operações industriais de Suruptu.
+
+
 ---
 #### Connected to
 
